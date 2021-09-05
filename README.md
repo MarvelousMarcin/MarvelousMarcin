@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @MarvelousMarcin
+- 👋 Hi, I’m @MarvelousMarcin 🇵🇱
 - 👀 I’m interested in money
 - 🌱 I’m currently learning Java, Python, SQL and CSS
+- 💻 Java Intern
 
 
 
