@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarvelousMarcin 🇵🇱
-- 🌱 I’m currently learning Java, Python, SQL and CSS
-- 💻 Java Intern
+- 🌱 I’m currently learning Java, Python, SQL, JS, Node.js and CSS
+
 
 
 
