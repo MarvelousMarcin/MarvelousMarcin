@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @MarvelousMarcin 🇵🇱
-- 🌱 I’m currently learning Java, Python, SQL, JS, Node.js and CSS
+- 🌱 Skills
+    * JavaScript
+    * Node.js
+    * Java
+    * SQL
+    * MongoDB
+    * CSS
+    * HTML 
 
 
 
