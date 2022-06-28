@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @MarvelousMarcin 🇵🇱
-- 🌱 Skills
-    * JavaScript
-    * Node.js + Express
-    * Java
-    * SQL
-    * MongoDB
-    * CSS
-    * HTML 
+
 
 
 
